@@ -6,7 +6,7 @@ html,body{
 }
 
 .container{
-    width:360px;
+    width:400px;
 }
 
 #inputField{
@@ -24,6 +24,7 @@ html,body{
     border: 1px solid black;
     vertical-align: middle;
     font-size: 30px;
+    margin-left:0.3rem;
 }
 
 .to-dos{
