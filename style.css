@@ -32,8 +32,8 @@ html,body{
 
 }
 
-.paragraph-styling{
+.paragraph{
     margin: 0 auto;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 27px;
 }
